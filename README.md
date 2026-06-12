@@ -3,6 +3,8 @@
 Resolução da lista de exercícios da disciplina de **Otimização Combinatória e Contínua / Pesquisa Operacional** (UFAL).
 Professores: Bruno Nogueira e Rian Pinheiro.
 
+Alunos: Otto Tenório e Rômulo Siqueira
+
 A lista tem dois exercícios:
 
 1. **Meta-heurística de solução única (busca local) para o Bin Packing.**
